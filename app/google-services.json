@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "832115844638",
+    "firebase_url": "https://journal-1529947849013.firebaseio.com",
+    "project_id": "journal-1529947849013",
+    "storage_bucket": "journal-1529947849013.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832115844638:android:15261c3fab30a53c",
+        "android_client_info": {
+          "package_name": "com.platinum.journal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832115844638-po385cohvprc5agcf0rj8o4vnps6gtom.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALW3DKsQTq1SynA7YjLZUbmSjWzjuhlkE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
